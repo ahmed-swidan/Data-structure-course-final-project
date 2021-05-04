@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591486719 source:e:\musty\college\datastructuresii\finalprojectds2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<limits.h>
+	<utility>
+
